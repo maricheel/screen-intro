@@ -2,6 +2,8 @@
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
             <article class="markdown-body entry-content container-lg" itemprop="text"><div align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8a6e492d3ced504699ba3a46b1eb480379efa99d2df69d8105a0d060af57d9ac/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f61646f6e69736a732f696d6167652f75706c6f61642f715f3130302f76313535383631323836392f61646f6e69732d726561646d655f7a73637963752e6a7067"><img src="https://camo.githubusercontent.com/8a6e492d3ced504699ba3a46b1eb480379efa99d2df69d8105a0d060af57d9ac/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f61646f6e69736a732f696d6167652f75706c6f61642f715f3130302f76313535383631323836392f61646f6e69732d726561646d655f7a73637963752e6a7067" width="600px" data-canonical-src="https://res.cloudinary.com/adonisjs/image/upload/q_100/v1558612869/adonis-readme_zscycu.jpg" style="max-width:100%;"></a>
+                        ![Uploading Sans titre (1).jpg…]()
+
 </div>
 <br>
 <hr>
