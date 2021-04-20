@@ -1,11 +1,7 @@
 
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
             <article class="markdown-body entry-content container-lg" itemprop="text"><div align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8a6e492d3ced504699ba3a46b1eb480379efa99d2df69d8105a0d060af57d9ac/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f61646f6e69736a732f696d6167652f75706c6f61642f715f3130302f76313535383631323836392f61646f6e69732d726561646d655f7a73637963752e6a7067"><img src="https://camo.githubusercontent.com/8a6e492d3ced504699ba3a46b1eb480379efa99d2df69d8105a0d060af57d9ac/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f61646f6e69736a732f696d6167652f75706c6f61642f715f3130302f76313535383631323836392f61646f6e69732d726561646d655f7a73637963752e6a7067" width="600px" data-canonical-src="https://res.cloudinary.com/adonisjs/image/upload/q_100/v1558612869/adonis-readme_zscycu.jpg" style="max-width:100%;"></a>
-                        ![Uploading Sans titre (1).jpg…]()
 
-</div>
-<br>
 <hr>
 <div align="center">
   <h3><a id="user-content--sponsored-by-" class="anchor" aria-hidden="true" href="#-sponsored-by-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Sponsored by </h3>
